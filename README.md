@@ -1,8 +1,8 @@
 # AWS Lambda Boilerplate (TypeScript)
 
-- Run `./setup.sh` to install dependencies
-- Run `./container-bash.sh` to use bash inside container
-- Run `./build.sh` to create a build
+- Run `make setup` to install dependencies
+- Run `make container-bash` to use bash inside container
+- Run `make build` to create a build
 
 ## Deploy
 
